@@ -50,4 +50,4 @@ android.enableJetifier=true
 
 
 ## UI APP
-<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/856dceeb-2ed8-41ec-beb3-8589040cede4" />
+<img width="80" height="40" alt="image" src="https://github.com/user-attachments/assets/856dceeb-2ed8-41ec-beb3-8589040cede4" />
