@@ -50,15 +50,16 @@ android.enableJetifier=true
 
 
 ## UI APP
-<img src="https://github.com/user-attachments/assets/cc52ee5b-0fa0-407c-a7ea-330a09304c0f" width="700" alt="Header Banner">
-
-<img src="https://github.com/user-attachments/assets/856dceeb-2ed8-41ec-beb3-8589040cede4" width="230" title="Main Screen">
-
-  <img src="https://github.com/user-attachments/assets/444eb471-d1fb-4ee2-abc0-4721495f8b68" width="230" title="Form Screen">
-  
-  <img src="https://github.com/user-attachments/assets/3919d99c-ba66-418f-8e64-db77df608896" width="230" title="Dashboard Screen">
-  
-  <img src="https://github.com/user-attachments/assets/181ac28c-5771-4762-970b-30edf9380746" width="500" alt="Detail View">
+🔐 Login
+<img src="https://github.com/user-attachments/assets/181ac28c-5771-4762-970b-30edf9380746" width="300"/>
+📝 Register
+<img src="https://github.com/user-attachments/assets/1efb78aa-c2e6-4538-8b8f-1d2127112edf" width="300"/>
+🎓 Dashboard
+<img src="https://github.com/user-attachments/assets/e2c6da84-1b51-4c1b-8127-fa1f3646d864" width="300"/>
+🧾 Form Seminar
+<img src="https://github.com/user-attachments/assets/07d032f4-f4b9-41dd-8b7d-48419bf7a607" width="300"/>
+📋 Detail Data
+<img src="https://github.com/user-attachments/assets/704a35ca-7096-484a-ba05-b2d36a566183" width="300"/>
 
 
 
