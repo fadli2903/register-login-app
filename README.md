@@ -50,4 +50,12 @@ android.enableJetifier=true
 
 
 ## UI APP
-<img width="80" height="40" alt="image" src="https://github.com/user-attachments/assets/856dceeb-2ed8-41ec-beb3-8589040cede4" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/856dceeb-2ed8-41ec-beb3-8589040cede4" />
+<img width="738" height="2340" alt="image" src="https://github.com/user-attachments/assets/181ac28c-5771-4762-970b-30edf9380746" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/444eb471-d1fb-4ee2-abc0-4721495f8b68" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/3919d99c-ba66-418f-8e64-db77df608896" />
+<img width="738" height="1162" alt="WhatsApp Image 2026-04-29 at 23 51 51" src="https://github.com/user-attachments/assets/cc52ee5b-0fa0-407c-a7ea-330a09304c0f" />
+
+
+
+
