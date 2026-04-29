@@ -1,4 +1,4 @@
-# Register App
+# Register seminar app
 
 Aplikasi Android untuk pendaftaran seminar yang dibangun menggunakan teknologi modern Android.
 
