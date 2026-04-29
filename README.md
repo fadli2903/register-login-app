@@ -51,15 +51,15 @@ android.enableJetifier=true
 
 ## UI APP
 🔐 Login
-<img src="https://github.com/user-attachments/assets/181ac28c-5771-4762-970b-30edf9380746" width="300"/>
-📝 Register
 <img src="https://github.com/user-attachments/assets/1efb78aa-c2e6-4538-8b8f-1d2127112edf" width="300"/>
+
 🎓 Dashboard
 <img src="https://github.com/user-attachments/assets/e2c6da84-1b51-4c1b-8127-fa1f3646d864" width="300"/>
-🧾 Form Seminar
-<img src="https://github.com/user-attachments/assets/07d032f4-f4b9-41dd-8b7d-48419bf7a607" width="300"/>
-📋 Detail Data
+
+🧾 Register Seminar
 <img src="https://github.com/user-attachments/assets/704a35ca-7096-484a-ba05-b2d36a566183" width="300"/>
 
+📋 Detail Data
+<img src="https://github.com/user-attachments/assets/07d032f4-f4b9-41dd-8b7d-48419bf7a607" width="300"/>
 
 
