@@ -44,3 +44,10 @@ Proyek ini telah dikonfigurasi menggunakan **AndroidX**. Pastikan file `gradle.p
 android.useAndroidX=true
 android.enableJetifier=true
 ```
+
+
+
+
+
+## UI APP
+<img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/856dceeb-2ed8-41ec-beb3-8589040cede4" />
